@@ -20,7 +20,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
-  baseUrl: /upptime-checker
+  # baseUrl: /upptime-checker
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "Kenf's Uptime"
   introTitle: "This is a status monitoring site for Kenf's personal Projects - Powered by **[Uptime](https://github.com/upptime/upptime)**"
@@ -33,3 +33,17 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "11 0 * * *"
+  responseTime: "11 23 * * *"
+  staticSite: "11 1 * * *"
+  summary: "11 0 * * *"
+  updateTemplate: "11 0 * * *"
+  updates: "11 3 * * *"
+  uptime: "*/30 * * * *"
+
+assignees:
+  - duckyfuz
+
+user-agent: duckyfux
