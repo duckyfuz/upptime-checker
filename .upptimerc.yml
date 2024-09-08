@@ -42,7 +42,7 @@ workflowSchedule:
   summary: "11 0 * * *"
   updateTemplate: "11 0 * * *"
   updates: "11 3 * * *"
-  uptime: "*/30 * * * *"
+  uptime: "*/15 * * * *"
 
 assignees:
   - duckyfuz
