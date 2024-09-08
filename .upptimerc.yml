@@ -23,17 +23,14 @@ status-website:
   # cname: demo.upptime.js.org
   # baseUrl: /upptime-checker
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Kenf's Uptime"
-  introTitle: "This is a status monitoring site for Kenf's personal Projects - Powered by **[Uptime](https://github.com/upptime/upptime)**"
-  introMessage: Real time up date with no server required — just GitHub Actions, Issues, and Pages
+  name: "Kenf's Small Projects"
+  introTitle: "Are my sites down??? (Hopefully not.)"
+  introMessage: Real time updates with no server required — Powered by **[Uptime](https://github.com/upptime/upptime)**
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
   graphs: "11 0 * * *"
@@ -47,4 +44,4 @@ workflowSchedule:
 assignees:
   - duckyfuz
 
-user-agent: duckyfux
+user-agent: duckyfuz
