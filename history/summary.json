@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kenf.dev.ico",
     "slug": "portfolio-site",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 166,
-    "timeDay": 309,
+    "uptimeYear": "99.92%",
+    "time": 165,
+    "timeDay": 123,
     "timeWeek": 158,
-    "timeMonth": 168,
-    "timeYear": 166,
+    "timeMonth": 164,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2024-09-07": 41
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 288,
-    "timeWeek": 373,
-    "timeMonth": 359,
-    "timeYear": 353,
+    "time": 350,
+    "timeDay": 225,
+    "timeWeek": 385,
+    "timeMonth": 360,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 174,
-    "timeWeek": 141,
-    "timeMonth": 152,
-    "timeYear": 156,
+    "time": 154,
+    "timeDay": 94,
+    "timeWeek": 136,
+    "timeMonth": 151,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 321,
-    "timeWeek": 281,
-    "timeMonth": 252,
-    "timeYear": 264,
+    "time": 259,
+    "timeDay": 77,
+    "timeWeek": 262,
+    "timeMonth": 245,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   }
 ]
