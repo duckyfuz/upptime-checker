@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 166,
-    "timeDay": 180,
-    "timeWeek": 202,
-    "timeMonth": 161,
-    "timeYear": 166,
+    "time": 175,
+    "timeDay": 725,
+    "timeWeek": 279,
+    "timeMonth": 181,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2024-10-22": 20,
       "2024-09-07": 41
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/resume.kenf.dev.ico",
     "slug": "resume-hosting",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 99,
-    "timeWeek": 340,
+    "uptime": "98.26%",
+    "uptimeDay": "9.68%",
+    "uptimeWeek": "87.10%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "98.26%",
+    "time": 348,
+    "timeDay": 109,
+    "timeWeek": 339,
     "timeMonth": 346,
-    "timeYear": 352,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-29": 113,
+      "2024-10-28": 1187
     }
   },
   {
@@ -51,11 +52,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 162,
-    "timeDay": 151,
-    "timeWeek": 203,
-    "timeMonth": 163,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 131,
+    "timeWeek": 198,
+    "timeMonth": 162,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2024-10-22": 18
     }
@@ -72,9 +73,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 258,
-    "timeDay": 90,
-    "timeWeek": 284,
-    "timeMonth": 261,
+    "timeDay": 237,
+    "timeWeek": 281,
+    "timeMonth": 256,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2024-10-22": 18
