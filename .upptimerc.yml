@@ -9,6 +9,12 @@ sites:
   - name: Resume Hosting
     url: https://resume.kenf.dev/
     method: GET
+  - name: Notes Hosting
+    url: https://notes.kenf.dev/
+    method: GET
+  - name: IFS Hosting
+    url: https://ifs.kenf.dev/
+    method: GET
   - name: Production Site - GT
     url: $GT_PROD_SITE
     method: GET
@@ -23,7 +29,7 @@ status-website:
   # cname: demo.upptime.js.org
   # baseUrl: /upptime-checker
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Kenf's Small Projects"
+  name: "kenf's small projects"
   introTitle: "Are my sites down??? (Hopefully not.)"
   introMessage: Real time updates with no server required — Powered by **[Uptime](https://github.com/upptime/upptime)**
   navbar:
