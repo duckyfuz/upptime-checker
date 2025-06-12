@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 212,
-    "timeDay": 243,
-    "timeWeek": 182,
-    "timeMonth": 167,
+    "timeDay": 257,
+    "timeWeek": 193,
+    "timeMonth": 170,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2024-10-22": 20,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.73%",
     "time": 1142,
-    "timeDay": 1210,
-    "timeWeek": 1217,
-    "timeMonth": 1234,
+    "timeDay": 1130,
+    "timeWeek": 1196,
+    "timeMonth": 1228,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2024-10-31": 1011,
@@ -42,6 +42,44 @@
       "2024-10-29": 1440,
       "2024-10-28": 1187
     }
+  },
+  {
+    "name": "Notes Hosting",
+    "url": "https://notes.kenf.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/notes.kenf.dev.ico",
+    "slug": "notes-hosting",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
+  },
+  {
+    "name": "IFS Hosting",
+    "url": "https://ifs.kenf.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/ifs.kenf.dev.ico",
+    "slug": "ifs-hosting",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 702,
+    "timeDay": 702,
+    "timeWeek": 702,
+    "timeMonth": 702,
+    "timeYear": 702,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production Site - GT",
@@ -54,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 189,
-    "timeWeek": 151,
-    "timeMonth": 187,
-    "timeYear": 168,
+    "time": 169,
+    "timeDay": 206,
+    "timeWeek": 160,
+    "timeMonth": 188,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2024-10-22": 18
     }
@@ -75,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 248,
-    "timeWeek": 199,
-    "timeMonth": 222,
+    "timeDay": 218,
+    "timeWeek": 198,
+    "timeMonth": 221,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-03-11": 24,
