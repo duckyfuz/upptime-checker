@@ -1,7 +1,7 @@
 url: $HL_PROD_SITE
-status: up
-code: 200
-responseTime: 65
-lastUpdated: 2025-09-05T08:35:55.065Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-09-05T09:47:40.620Z
 startTime: 2024-09-07T05:43:54.500Z
 generator: Upptime <https://github.com/upptime/upptime>
