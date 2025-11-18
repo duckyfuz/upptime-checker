@@ -1,7 +1,7 @@
 url: $GT_PROD_SITE
-status: down
-code: 500
-responseTime: 105
-lastUpdated: 2025-11-18T13:05:28.338Z
+status: up
+code: 200
+responseTime: 525
+lastUpdated: 2025-11-18T14:34:15.452Z
 startTime: 2024-09-07T05:43:53.852Z
 generator: Upptime <https://github.com/upptime/upptime>
